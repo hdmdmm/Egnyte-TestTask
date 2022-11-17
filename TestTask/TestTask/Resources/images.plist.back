@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>path</key>
+	<string>/content/images</string>
+	<key>list</key>
+	<array>
+		<string>Screenshot+2022-05-21+at+15.11.51.png</string>
+		<string>Screenshot+2022-05-21+at+15.20.22.png</string>
+		<string>Screenshot+2022-05-21+at+15.21.22.png</string>
+		<string>Screenshot+2022-05-21+at+15.23.24.png</string>
+		<string>Screenshot+2022-05-21+at+15.23.53.png</string>
+		<string>Screenshot+2022-05-21+at+15.25.52.png</string>
+		<string>Screenshot+2022-05-21+at+15.26.10.png</string>
+		<string>Screenshot+2022-05-21+at+15.27.21.png</string>
+		<string>Screenshot+2022-05-21+at+15.28.10.png</string>
+	</array>
+</dict>
+</plist>

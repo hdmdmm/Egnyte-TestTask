@@ -1,0 +1,19 @@
+
+"config_data_mismatch" = "The expected properties doesn't match to the config plist";
+"config_invalid_path" = "Couldn't read the file by path";
+"config_file_not_found" = "The configuration file was not found in the application bundle";
+
+
+"Download" = "Download";
+"Random Photos" = "Random Photos";
+
+
+"The request has finished with clients error. HTTP.StatusCode: %d" = "The request has finished with clients error. HTTP.StatusCode: %d";
+"Server error. HTTP.StatusCode: %d" = "Server error. HTTP.StatusCode: %d";
+"Handled error: %d" = "Handled error: %d";
+"Couldn't esteablish connection with server" = "Couldn't esteablish connection with server";
+"Due to cancellation by user the process has stopped" = "Due to cancellation by user the process has stopped";
+"The process couldnt be finished due to error. %s" = "The process couldnt be finished due to error. %s";
+"Bad url inputs for a request" = "Bad url inputs for a request";
+
+"Couldn't provide the resource without name." = "Couldn't provide the resource without name.";
